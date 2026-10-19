@@ -1,0 +1,11 @@
+Nev;Type;DMG;Def;HP;
+Flamion;Fire;75;40;120
+Aquaris;Water;60;55;130
+Terron;Earth;85;70;150
+Zephyra;Air;70;35;100
+Voltix;Electric;90;30;95
+Glacior;Ice;65;60;140
+Shadowl;Dark;80;45;110
+Lumina;Light;55;50;125
+Venomar;Poison;72;48;115
+Steelon;Metal;88;75;160

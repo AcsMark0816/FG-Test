@@ -1,0 +1,2 @@
+Name;Damage;Health
+MajerTheGreedy;10;60

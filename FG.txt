@@ -1,0 +1,2 @@
+Name;Money;Damage;Helth;Defense
+FG;1000;20;250;50
